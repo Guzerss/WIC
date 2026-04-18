@@ -1,3 +1,2 @@
 CMD: `/wic`
-
 Credits: Guzers
